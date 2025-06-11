@@ -7,8 +7,8 @@
 - Cycles/Eevee (Rendering Engine)
 
 ## 📸 Previews
-![Render1](render1.png)
-![Render2](render2.png)
+![Render1](classroom.png)
+![Render2](untitled.png)
 
 ## 🎥 Demo Video 
 [Click to Watch]([https://drive.google.com/yourlink](https://drive.google.com/file/d/1MtW0faqpq1E6TJ1vvWHVdvw5FB7XOeCC/view?usp=drive_link))  
